@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Winchestercoder or Ezra Dracul
-- 👀 I’m interested in skateboarding, graffiti and working out
-- 🌱 I’m currently learning Javascript and web devolpment
+- 👋 Hi, I’m @Winchestercoder 
+- 👀 I’m interested in skateboarding, graffiti, frontend web design and working out
+- 🌱 I’m currently learning Javascript and frontend web design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... I don't have contacts as I'm in secondary school.
 
