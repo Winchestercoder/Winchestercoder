@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Winchestercoder 
-- 👀 I’m interested in skateboarding, graffiti, frontend web design and working out
-- 🌱 I’m currently learning Javascript and frontend web design
+- 👀 I’m interested in frontend web design
+- 🌱 I’m currently learning Javascript, HTML, and CSS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... I don't have contacts as I'm in secondary school.
+- 📫 How to reach me ...  
 
 <!---
 Winchestercoder/Winchestercoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
